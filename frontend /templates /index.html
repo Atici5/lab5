@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Chatbot</title>
+  <style>
+    body {
+      background-color: #f0f4f8;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 60px;
+    }
+
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 30px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      margin-bottom: 25px;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      width: 300px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 16px;
+      box-shadow: 1px 1px 4px rgba(0,0,0,0.1);
+    }
+
+    button {
+      background-color: #3498db;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #2980b9;
+    }
+
+    #response {
+      max-width: 500px;
+      padding: 15px;
+      background-color: #ecf0f1;
+      border-radius: 10px;
+      color: #34495e;
+      font-size: 18px;
+      text-align: center;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>🤖 AI Chatbot</h1>
+  <form id="chat-form">
+    <input type="text" id="message" placeholder="Ask something..." required />
+    <button type="submit">Send</button>
+  </form>
+  <div id="response"></div>
+
+  <script>
+    document.getElementById('chat-form').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const message = document.getElementById('message').value;
+
+      const response = await fetch('/chat', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ message }),
+      });
+
+      const data = await response.json();
+      document.getElementById('response').textContent = data.response;
+
+      const utterance = new SpeechSynthesisUtterance(data.response);
+      utterance.lang = "en-US";
+      speechSynthesis.speak(utterance);
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+

@@ -1,0 +1,147 @@
+[2025-03-31 18:12:02] User: I want to refund my order
+[2025-03-31 18:12:02] Bot: Can you please provide your order number?
+
+[2025-03-31 18:26:00] User: I want to refund my order
+[2025-03-31 18:26:00] Bot: Can you please provide your order number?
+
+[2025-03-31 18:27:16] User: There is a problem with my product
+[2025-03-31 18:27:16] Bot: I'm sorry to hear that. Can you describe the problem in more detail?
+
+[2025-04-01 22:51:44] User: hi
+[2025-04-01 22:51:44] Bot: I'm not sure I understand. Can you rephrase your question?
+
+[2025-04-01 22:53:50] User: hi
+[2025-04-01 22:53:50] Bot: Hello! How can I help you today?
+
+[2025-04-01 22:54:04] User: thanks
+[2025-04-01 22:54:04] Bot: You're welcome! Is there anything else I can help you with?
+
+[2025-04-02 00:10:33] User: hi
+[2025-04-02 00:10:33] Bot: I'm not sure I understand. Can you rephrase your question?
+
+[2025-04-02 00:13:52] User: hi
+[2025-04-02 00:13:52] Bot: I'm not sure I understand. Can you rephrase your question?
+
+[2025-04-02 00:18:52] You: thank you
+[2025-04-02 00:18:52] Bot: You're welcome! Can I help you with anything else?
+
+[2025-04-02 00:19:28] You: hi
+[2025-04-02 00:19:28] Bot: Hello! How can I assist you today?
+
+[2025-04-02 00:19:37] You: thank you
+[2025-04-02 00:19:37] Bot: You're welcome! Can I help you with anything else?
+
+[2025-04-02 00:19:45] You: refund
+[2025-04-02 00:19:45] Bot: Can you please provide your order number?
+
+[2025-04-02 00:22:46] You: problem
+[2025-04-02 00:22:46] Bot: I'm sorry to hear that. Could you please describe the problem?
+
+[2025-04-02 00:33:09] You: problem
+[2025-04-02 00:33:09] Bot: I'm sorry to hear that. Could you please describe the problem?
+
+[2025-04-02 00:33:14] You: hi
+[2025-04-02 00:33:14] Bot: Hello! How can I assist you today?
+
+[2025-04-02 00:33:22] You: how are you?
+[2025-04-02 00:33:22] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 00:33:28] You: how are you
+[2025-04-02 00:33:28] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 00:33:40] You: what is my order number
+[2025-04-02 00:33:40] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 00:34:03] You: I'm frustrated with my order
+[2025-04-02 00:34:03] Bot: I'm really sorry you're feeling this way. How can I help to resolve this?
+
+[2025-04-02 00:34:17] You: I'm happy with my purchase
+[2025-04-02 00:34:17] Bot: I'm glad to hear you're happy! How can I assist you further?
+
+[2025-04-02 00:34:28] You: xyzabc
+[2025-04-02 00:34:28] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 02:36:29] You: hi
+[2025-04-02 02:36:29] Bot: Hello! How can I assist you today?
+
+[2025-04-02 02:36:36] You: how are you
+[2025-04-02 02:36:36] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 02:36:51] You: my order number 12345
+[2025-04-02 02:36:51] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 02:37:35] You: my order number is 12345
+[2025-04-02 02:37:35] Bot: Thank you! We are processing your return request.
+
+[2025-04-02 02:37:43] You: my order number is 12
+[2025-04-02 02:37:43] Bot: Thank you! We are processing your return request.
+
+[2025-04-02 02:38:10] You: I’m not sure what to do
+[2025-04-02 02:38:10] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 02:38:26] You: I'm angry
+[2025-04-02 02:38:26] Bot: I'm really sorry you're feeling this way. How can I help to resolve this?
+
+[2025-04-02 02:38:37] You: I'm happy with my purchase
+[2025-04-02 02:38:37] Bot: I'm glad to hear you're happy! How can I assist you further?
+
+[2025-04-02 02:38:47] You: I'm frustrated with my order
+[2025-04-02 02:38:47] Bot: I'm really sorry you're feeling this way. How can I help to resolve this?
+
+[2025-04-02 02:39:00] You: I want to return my order
+[2025-04-02 02:39:00] Bot: Can you please provide your order number?
+
+[2025-04-02 02:39:16] You: my order number is 12345
+[2025-04-02 02:39:16] Bot: Thank you! We are processing your return request.
+
+[2025-04-02 02:39:31] You: my order number is 12345
+[2025-04-02 02:39:31] Bot: Thank you! We are processing your return request.
+
+[2025-04-02 09:46:24] You: hi
+[2025-04-02 09:46:24] Bot: Hello! How can I assist you today?
+
+[2025-04-02 09:46:32] You: hello
+[2025-04-02 09:46:32] Bot: Hello! How can I assist you today?
+
+[2025-04-02 09:46:44] You: thank you
+[2025-04-02 09:46:44] Bot: You're welcome! Can I help you with anything else?
+
+[2025-04-02 09:46:50] You: bye
+[2025-04-02 09:46:50] Bot: Goodbye! Have a great day!
+
+[2025-04-02 09:47:02] You: my order number 12
+[2025-04-02 09:47:02] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 09:47:13] You: my order number is 12
+[2025-04-02 09:47:13] Bot: Thank you! We are processing your return request.
+
+[2025-04-02 09:47:24] You: good morning
+[2025-04-02 09:47:24] Bot: I’m not sure I understand. Can you please rephrase your question?
+
+[2025-04-02 09:47:41] You: greetings
+[2025-04-02 09:47:41] Bot: Hello! How can I assist you today?
+
+[2025-04-02 09:48:09] You: I have a problem with my order number
+[2025-04-02 09:48:09] Bot: I'm sorry to hear that. Could you please describe the problem?
+
+[2025-04-02 09:48:35] You: I'm angry
+[2025-04-02 09:48:35] Bot: I'm really sorry you're feeling this way. How can I help to resolve this?
+
+[2025-04-02 10:31:46] You: hi
+[2025-04-02 10:31:46] Bot: Hello! How can I assist you today?
+
+[2025-04-02 10:31:52] You: hello
+[2025-04-02 10:31:52] Bot: Hello! How can I assist you today?
+
+[2025-04-02 10:31:55] You: bye
+[2025-04-02 10:31:55] Bot: Goodbye! Have a great day!
+
+[2025-04-02 10:32:20] You: I have a problem my order number
+[2025-04-02 10:32:20] Bot: I'm sorry to hear that. Could you please describe the problem?
+
+[2025-04-07 23:37:48] You: hello
+[2025-04-07 23:37:48] Bot: Hello! How can I assist you today?
+
+[2025-04-07 23:45:50] You: python3 api.py
+[2025-04-07 23:45:50] Bot: I’m not sure I understand. Can you please rephrase your question?
+
